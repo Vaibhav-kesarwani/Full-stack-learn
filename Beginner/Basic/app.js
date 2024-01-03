@@ -1,41 +1,47 @@
-console.table({ name: "vaibhav", age: 20 });
+// console.table({ name: "vaibhav", age: 20 });
 
-// This is a simple comment
+// // This is a simple comment
 
-console.log();
+// console.log();
 
-// Variables
+// // Variables
 
-// (reserved word) (variable name) (type of value)
+// // (reserved word) (variable name) (type of value)
 
-// let, var and const
+// // let, var and const
 
-// Declared variable
+// // Declared variable
 
-let name = "10";
+// let name = "10";
 
-// assign value to your variable
+// // assign value to your variable
 
-let xyz;
-xyz = 10;
+// let xyz;
+// xyz = 10;
 
-console.log(name);
-console.log(xyz);
+// console.log(name);
+// console.log(xyz);
 
-// const variable can be assigned to multiple times.
-const youtubeChannel = "variable";
-//* shows you the error message
-// youtubeChannel = "vaibhav"
+// // const variable can be assigned to multiple times.
+// const youtubeChannel = "variable";
+// //* shows you the error message
+// // youtubeChannel = "vaibhav"
 
-console.log(youtubeChannel);
+// console.log(youtubeChannel);
 
-// Challenge
+// // Challenge
 
-let userName = "vaibhav";
-let whatDoYouWannaBecomeInYourLife = "Programmer";
-let gender = "male";
-let twitterHandle = "Vaibhav-kesarwani";
-console.log(userName);
-console.log(whatDoYouWannaBecomeInYourLife);
-console.log(gender);
-console.log(twitterHandle);
+// let userName = "vaibhav";
+// let whatDoYouWannaBecomeInYourLife = "Programmer";
+// let gender = "male";
+// let twitterHandle = "Vaibhav-kesarwani";
+// console.log(userName);
+// console.log(whatDoYouWannaBecomeInYourLife);
+// console.log(gender);
+// console.log(twitterHandle);
+
+// Primitive types
+// 1. Number
+
+let num = 10;
+console.log(num);
