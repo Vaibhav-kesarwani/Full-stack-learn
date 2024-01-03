@@ -43,5 +43,25 @@
 // Primitive types
 // 1. Number
 
-let num = 10;
-console.log(num);
+// let num = 10;
+// to know the type of any number.
+// console.log(typeof num);
+
+// Basic maths
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 2);
+// console.log(2 / 2);
+// console.log(2 ** 2);
+
+let counter = 10;
+
+// Incrementor
+counter++;
+console.log(counter);
+
+// Decrementor
+counter--;
+console.log(counter);
+
