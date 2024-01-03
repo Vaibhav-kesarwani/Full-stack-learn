@@ -41,7 +41,7 @@
 // console.log(twitterHandle);
 
 // Primitive types
-// 1. Number
+// Numbers
 
 // let num = 10;
 // to know the type of any number.
@@ -76,4 +76,32 @@
 // console.log(firstFavNum / secondFavNum);
 // console.log(firstFavNum % secondFavNum);
 // console.log(firstFavNum ** secondFavNum);
+
+// Booleans -> true/ false
+
+// let isTrue = true;
+// console.log(isTrue);
+
+// isTrue = false;
+// console.log(isTrue);
+
+// Not an number
+// isTrue = NaN;
+// console.log(isTrue);
+
+// let number = 10;
+// It will show you Not an number (NaN).
+// console.log(number + undefined);
+
+// falsy
+
+// -> false
+// -> null
+// -> undefined
+// -> 0
+// -> -0
+// -> NaN
+// -> "", '', ``, (empty quotes)
+
+// Other that all the values are truthy values.
 
