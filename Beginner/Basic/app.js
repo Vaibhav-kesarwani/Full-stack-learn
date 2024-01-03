@@ -210,19 +210,38 @@
 
 // For writing the description
 
-// let description = `Heloo 
-// hi 
-// how 
+// let description = `Heloo
+// hi
+// how
 // are you
 // `;
 
 // console.log(description);
- 
+
 // let firstName = "vaibhav ";
 // let secondName = "kesarwani";
- 
+
 // let fullName = `${firstName} ${secondName}`;
 // console.log(fullName);
 
 //! challenge
 
+// let favActorFirstName = "Salman";
+// let favActorLastName = "Khan";
+// let fullName = `${favActorFirstName} ${favActorLastName}`;
+// console.log(fullName);
+
+// Type conversion
+
+// let money = "50";
+// console.log(typeof money);
+
+// convert string to number
+
+// 1st way
+// money = parseInt(money);
+// console.log(typeof money);
+
+// 2nh way
+// money = Number(money);
+// console.log(typeof money);
