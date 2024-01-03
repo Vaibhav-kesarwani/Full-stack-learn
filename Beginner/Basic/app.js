@@ -1,20 +1,20 @@
 // console.table({ name: "vaibhav", age: 20 });
 
-// // This is a simple comment
+// This is a simple comment
 
 // console.log();
 
-// // Variables
+// Variables
 
-// // (reserved word) (variable name) (type of value)
+// (reserved word) (variable name) (type of value)
 
-// // let, var and const
+// let, var and const
 
-// // Declared variable
+// Declared variable
 
 // let name = "10";
 
-// // assign value to your variable
+// assign value to your variable
 
 // let xyz;
 // xyz = 10;
@@ -22,14 +22,14 @@
 // console.log(name);
 // console.log(xyz);
 
-// // const variable can be assigned to multiple times.
+// const variable can be assigned to multiple times.
 // const youtubeChannel = "variable";
-// //* shows you the error message
-// // youtubeChannel = "vaibhav"
+//* shows you the error message
+// youtubeChannel = "vaibhav"
 
 // console.log(youtubeChannel);
 
-// // Challenge
+//! Challenge
 
 // let userName = "vaibhav";
 // let whatDoYouWannaBecomeInYourLife = "Programmer";
@@ -55,13 +55,25 @@
 // console.log(2 / 2);
 // console.log(2 ** 2);
 
-let counter = 10;
+// let counter = 10;
 
 // Incrementor
-counter++;
-console.log(counter);
+// counter++;
+// console.log(counter);
 
 // Decrementor
-counter--;
-console.log(counter);
+// counter--;
+// console.log(counter);
+
+//! challenge
+
+// let firstFavNum = 10;
+// let secondFavNum = 9;
+
+// console.log(firstFavNum + secondFavNum);
+// console.log(firstFavNum - secondFavNum);
+// console.log(firstFavNum * secondFavNum);
+// console.log(firstFavNum / secondFavNum);
+// console.log(firstFavNum % secondFavNum);
+// console.log(firstFavNum ** secondFavNum);
 
