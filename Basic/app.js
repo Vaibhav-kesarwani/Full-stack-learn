@@ -15,3 +15,15 @@
 
 // console.log(sum(2, 3));
 
+// function add(num1, num2, myCallback) {
+//   let sum = num1 + num2;
+//   myCallback(sum);
+// }
+
+// function display(result) {
+//   console.log(result);
+// }
+
+// add(1, 2, display);
+
+
