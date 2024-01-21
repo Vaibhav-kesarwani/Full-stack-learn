@@ -15,7 +15,7 @@ function sum(a, b) {
 
 const app = express();
 
-app.get("/", (req, res) => {
+app.get("/adventure", (req, res) => {
   const n = req.query.n;
   // const a = parseInt(req.query.a);
   // const b = parseInt(req.query.b);
@@ -28,5 +28,8 @@ app.get("/", (req, res) => {
 app.get("/home", (req, res) => {
   res.send("Hello there!");
 });
+
+app.get()
+
 
 app.listen(3000);
