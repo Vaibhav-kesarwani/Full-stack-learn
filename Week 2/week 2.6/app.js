@@ -23,3 +23,4 @@ const a = [1, 2, 3, 4, 5, 6];
 
 const ans = a.filter((x) => x % 2 === 0);
 console.log(ans);
+
